@@ -5,7 +5,7 @@
   "author": "https://github.com/angular-ui/ui-codemirror/contributors",
   "license": "MIT",
   "homepage": "http://angular-ui.github.com",
-  "main": "./src/ui-codemirror.js",
+  "main": "./src/ui-codemirror-merge.js",
   "ignore": [
     "**/.*",
     "node_modules",
